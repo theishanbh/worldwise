@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-07-05T17:29:43.118Z",
+      "notes": "I live here",
+      "position": {
+        "lat": "28.626726261255527",
+        "lng": "77.20569727668703"
+      }
+    }
+  ]
+}
